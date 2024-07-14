@@ -1,7 +1,7 @@
 out/
 build/
 .vs/
-*.json
+CMakePresets.json
 .DS_Store
 .vscode/
 
